@@ -1,1 +1,1 @@
-# wordpress
+docker-compose up
